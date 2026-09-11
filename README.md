@@ -43,12 +43,9 @@ Daily transaction volume, success/failure rates, and gas fee trends on the Linea
 
 ## About This Repo
 Each dashboard folder follows the same structure for easy navigation:
-dashboard-name/
-├── README.md ← metrics, key observations, and context
-├── queries/ ← raw SQL used to power the dashboard
-└── screenshots/ ← visuals from the live Dune dashboard
 
----
-
+- `README.md` — metrics, key observations, and context
+- `queries/` — raw SQL used to power the dashboard
+- `screenshots/` — visuals from the live Dune dashboard
 
 Feel free to explore each folder, or click through to the live Dune dashboards linked above.
